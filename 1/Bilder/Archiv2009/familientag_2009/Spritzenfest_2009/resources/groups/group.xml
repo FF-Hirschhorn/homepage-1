@@ -1,0 +1,896 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Klassisch</galleryName>
+  <galleryDescription>Ein klassisches Format, in dem Ihre Fotos einzeln gezeigt werden. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Spritzenfest am 19. Juli 2009</pageTitle>
+   <pageSubtitle>mit Kinder-Spritzenwettbewerb</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="673" maxheight="505" />
+ </sizes>
+ <media>
+  <item>
+   <title>Spritzenfest_2009_02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_03</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_03.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_04</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_07</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_07.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_09</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_10</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_10.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_11</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_11.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_12</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_12.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_13</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_13.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_14</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_15</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_15.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_16</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_16.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_17</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_17.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_18</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_18.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_19</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_20</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_20.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_21</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_21.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_22</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_22.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_23</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_23.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_24</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_24.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_25</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_25.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_26</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_26.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_27</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_27.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_28</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_28.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_29</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_29.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_30</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_30.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_31</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_31.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_32</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_32.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_33</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_33.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_34</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_34.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_36</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_36.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_37</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_37.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_38</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_38.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_39</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_39.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_40</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_40.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_41</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_41.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_42</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_42.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_43</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_43.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_44</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_44.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_45</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_45.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_46</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_46.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_48</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_48.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_49</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_49.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_50</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_50.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_51</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_51.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_52</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_52.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_53</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_53.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_54</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_54.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_55</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_55.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_56</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_56.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_57</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_57.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_58</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_58.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_59</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_59.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_60</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_60.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_61</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_61.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_62</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_62.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_63</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_63.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_64</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_64.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_66</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_66.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_68</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_68.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_69</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_69.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_71</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_71.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_72</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_72.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_73</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_73.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_74</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_74.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_75</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_75.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_78</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_78.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_80</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_80.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_81</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_81.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_82</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_82.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_83</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_83.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest_2009_84</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest_2009_84.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

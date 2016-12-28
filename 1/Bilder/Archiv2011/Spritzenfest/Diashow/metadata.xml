@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/newsreel/name=Newsreel" />
+    <description value="$$$/pseGalleries/newsreel/description=Display your photos in an old time newsreel format." />
+    <creator company="Lightmaker" designer="James Karsburg and Michael Battle" />
+    <category value="$$$/category/Classic=Classic" >
+	    <subcategory value="$$$/subcategory/Subcategory=Subcategory"/>
+    </category>
+    <category value="$$$/category/Fun=Fun" >
+	    <subcategory value="$$$/subcategory/Subcategory=Subcategory"/>
+    </category>
+    <sizes>
+        <size name="thumb" width="260" height="260" />
+        <size name="large" width="1030" height="1030" />
+    </sizes>
+</PSEContent>
+

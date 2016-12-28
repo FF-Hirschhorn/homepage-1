@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/slidingPhotos-9/name=Sliding Photos 9" />
+    <description value="$$$/pseGalleries/slidingPhotos-9/description=Maximum of 9 photos. Your photos are in a grid, and bounce into place when selected." />
+    <creator company="Adobe" designer="Amy Casillas and Wayne Jiang" />
+    <category value="$$$/category/Classic=Classic" />
+    <sizes>
+        <size name="medium" width="1066" height="1066" />
+    </sizes>
+</PSEContent>
+

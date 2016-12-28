@@ -1,0 +1,73 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="GalleryMaker.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="reflection.swf" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\reflection.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\reflection\medium\LAZ-09-01.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-01.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-02.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-02.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-03.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-03.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-04.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-04.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-05.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-05.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-06.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-06.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-07.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-07.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-08.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-08.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-09.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-09.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-10.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-10.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-11.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-11.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-12.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-12.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-13.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-13.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-14.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-14.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-15.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-15.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-16.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-16.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-17.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-17.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-18.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-18.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-19.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-19.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-20.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-20.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-21.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-21.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-22.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-22.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-23.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-23.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-24.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-24.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-25.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-25.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-26.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-26.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-27.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-27.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-28.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-28.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-29.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-29.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-30.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-30.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-31.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-31.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-32.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-32.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-33.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-33.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-34.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-34.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-35.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-35.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-36.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-36.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-37.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-37.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-38.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-38.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-39.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-39.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-40.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-40.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-41.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-41.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-42.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-42.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-43.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-43.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-44.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-44.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-45.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-45.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-46.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-46.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-47.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-47.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-48.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-48.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-49.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-49.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-50.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-50.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-51.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-51.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-52.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-52.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-53.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-53.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-54.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-54.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-55.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-55.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-56.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-56.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-57.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-57.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-58.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-58.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-59.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-59.jpg" />
+  <file dest="resources\media\reflection\medium\LAZ-09-60.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\reflection\medium\LAZ-09-60.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

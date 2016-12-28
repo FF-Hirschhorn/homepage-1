@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker>
+    <galleryInfo>
+        <galleryName>Bildband</galleryName>
+        <galleryDescription>Ein klassisches Buch zur Anzeige Ihrer Fotos. Blättern Sie ganz normal um, um durch das Buch zu blättern.</galleryDescription>
+        <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+    </galleryInfo>
+    <sizes>
+        <size width="400" height="300" name="medium" ></size>
+    </sizes>
+    <mx:application xmlns="*" backgroundcolor="#FFFFFF" xmlns:mx="http://www.macromedia.com/2005/mxml" >
+        <mx:model id="appearance" >
+            <pageOptions>
+                <showCaptions>true</showCaptions>
+            </pageOptions>
+        </mx:model>
+        <mx:model id="metadata" >
+            <pageTitle>Eigene Bilder</pageTitle>
+            <pageSubtitle></pageSubtitle>
+            <emailAddress></emailAddress>
+            <finalPage>Ende</finalPage>
+        </mx:model>
+<!-- Views -->        <mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Titel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="titleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Untertitel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="subtitleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="E-Mail-Adresse:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="emailAddressView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Text auf letzter Seite:" ></mx:label>
+                <mx:textinput width="143" maxchars="60" editable="true" id="endPageView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" pse:unless="ja_jp" >
+                <mx:checkbox id="showCaptionsView" label="Bildtitel einblenden" ></mx:checkbox>
+            </mx:vbox>
+        </mx:vbox>
+<!-- Bindings -->        <mx:binding destination="metadata.pageTitle" source="titleView.text" ></mx:binding>
+        <mx:binding destination="titleView.text" source="metadata.pageTitle" ></mx:binding>
+        <mx:binding destination="metadata.pageSubtitle" source="subtitleView.text" ></mx:binding>
+        <mx:binding destination="subtitleView.text" source="metadata.pageSubtitle" ></mx:binding>
+        <mx:binding destination="metadata.emailAddress" source="emailAddressView.text" ></mx:binding>
+        <mx:binding destination="emailAddressView.text" source="metadata.emailAddress" ></mx:binding>
+        <mx:binding destination="metadata.finalPage" source="endPageView.text" ></mx:binding>
+        <mx:binding destination="endPageView.text" source="metadata.finalPage" ></mx:binding>
+        <mx:binding destination="appearance.pageOptions.showCaptions" source="showCaptionsView.selected" pse:unless="ja_jp" ></mx:binding>
+        <mx:binding destination="showCaptionsView.selected" source="appearance.pageOptions.showCaptions" pse:unless="ja_jp" ></mx:binding>trueEigene BilderEnde</mx:application>
+</galleryMaker>

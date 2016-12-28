@@ -1,0 +1,82 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 008.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 008.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 015.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 015.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 019.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 019.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 025.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 025.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 035.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 035.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 036.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 036.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 042.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 042.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 043.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 043.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 044.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 044.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 045.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 045.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 046.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 046.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 047.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 047.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 054.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 054.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 060.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 060.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 068.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 068.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 070.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 070.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 072.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 072.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 095.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 095.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 099.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 099.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 101.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 101.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 106.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 106.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 111.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 111.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 114.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 114.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 117.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 117.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 121.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 121.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 123.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 123.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 127.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 127.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 128.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 128.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 133.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 133.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 148.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 148.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 152.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 152.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 154.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 154.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 160.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 160.jpg" />
+  <file dest="resources\media\roadtrip\medium\Hirschhorn 2011 163.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\medium\Hirschhorn 2011 163.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 008.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 008.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 015.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 015.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 019.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 019.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 025.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 025.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 035.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 035.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 036.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 036.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 042.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 042.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 043.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 043.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 044.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 044.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 045.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 045.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 046.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 046.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 047.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 047.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 054.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 054.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 060.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 060.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 068.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 068.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 070.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 070.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 072.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 072.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 095.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 095.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 099.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 099.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 101.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 101.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 106.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 106.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 111.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 111.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 114.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 114.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 117.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 117.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 121.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 121.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 123.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 123.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 127.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 127.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 128.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 128.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 133.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 133.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 148.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 148.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 152.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 152.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 154.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 154.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 160.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 160.jpg" />
+  <file dest="resources\media\roadtrip\thumb\Hirschhorn 2011 163.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\roadtrip\thumb\Hirschhorn 2011 163.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="roadtrip.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\roadtrip.swf" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

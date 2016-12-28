@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/" >
+ <type value="gallery_template" />
+ <subscription value="free" />
+ <formatsSupported>imagesandvideos</formatsSupported>
+ <name value="$$$/pseGalleries/gtlmemories/name=Memories" />
+ <description value="$$$/pseGalleries/gtlmemories/description=Stack of photos/videos appear center stage and quickly disperse and scatter.Photos/videos drift briefly off the stage and back on again." />
+ <creator company="ASSYST Inc." designer="Dhileep Kattakayam, Gijo George, Soumen Paul and Syam Mohan" />
+ <category value="$$$/category/Classic=Classic" >
+  <subcategory value="$$$/subcategory/Subcategory=Subcategory" />
+ </category>
+ <sizes>
+	<size name="thumb" width="175" height="175" />
+	<size name="large" width="1030" height="1030" />
+	<size name="video" width="640" height="480" />
+ </sizes>
+ <local value="true" />
+</PSEContent>
+

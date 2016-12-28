@@ -1,0 +1,75 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="reflection.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\reflection.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 200.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 200.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 209.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 209.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 210.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 210.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 212.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 212.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 213.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 213.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 218.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 218.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 219.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 219.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 224.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 224.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 226.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 226.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 227.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 227.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 228.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 228.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 229.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 229.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 230.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 230.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 231.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 231.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 232.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 232.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 233.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 233.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 234.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 234.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 235.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 235.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 236.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 236.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 237.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 237.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 239.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 239.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 240.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 240.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 241.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 241.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 242.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 242.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 244.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 244.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 245.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 245.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 246.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 246.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 247.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 247.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 248.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 248.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 249.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 249.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 250.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 250.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 251.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 251.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 252.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 252.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 253.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 253.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 254.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 254.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 255.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 255.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 256.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 256.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 257.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 257.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 258.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 258.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 259.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 259.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 260.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 260.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 261.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 261.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 262.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 262.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 263.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 263.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 264.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 264.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 265.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 265.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 266.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 266.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 267.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 267.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 268.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 268.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 269.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 269.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 270.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 270.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 272.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 272.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 273.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 273.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 277.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 277.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 278.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 278.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 279.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 279.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 280.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 280.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 284.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 284.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 285.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 285.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 286.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 286.jpg" />
+  <file dest="resources\media\reflection\medium\Spritzenfest 2012 - 289.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Spritzenfest 2012 - 289.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

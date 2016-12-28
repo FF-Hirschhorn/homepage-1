@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>4x5-Diarahmen</galleryName>
+  <galleryDescription>Fotos werden in 4x5-Diarahmen übereinander angezeigt. Diese können beliebig verschoben werden.</galleryDescription>
+  <creator designer="Amy Casillas" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Funklehrgang-2010</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1066" maxheight="1066" />
+ </sizes>
+ <media baseUrl="resources/media/4x5transparency" videoBaseUrl="resources/media/4x5transparency" >
+  <item>
+   <title>Sprechfunker-01</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-04</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-05</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-05.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-09</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-10</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-10.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-15</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-15.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-17</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-17.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-23</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-23.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-19</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-20</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-20.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sprechfunker-18</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/Sprechfunker-18.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Gruppenfoto-1</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="710" src="medium/Gruppenfoto-1.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Gruppenfoto-2</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/Gruppenfoto-2.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Gruppe Hirschhorn</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="710" src="medium/Gruppe Hirschhorn.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

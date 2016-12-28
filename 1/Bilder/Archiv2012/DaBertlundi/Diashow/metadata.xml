@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/performancestar/name=Performance Star" />
+    <description value="$$$/pseGalleries/performancestar/description=Display your photos on the backdrop of a rock concert." />
+    <creator company="Lightmaker" designer="James Karsberg, Szczepan Waclaw, James Laver and Paul Cummins" />
+    <category value="$$$/category/Family=Family" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <category value="$$$/category/Occasions=Occasions" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <sizes>
+        <size name="thumb" width="300" height="300" />
+        <size name="large" width="1030" height="1030" />
+    </sizes>
+</PSEContent>
+

@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Gleiten</galleryName>
+  <galleryDescription>Fotos werden durch Klicken in die Mitte der Seite verschoben und in Farbe angezeigt. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Herbert &amp; Schnipsi - Weil mir uns net geniern!</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1066" maxheight="1066" />
+ </sizes>
+ <media baseUrl="resources/media/sliding" videoBaseUrl="resources/media/sliding" >
+  <item>
+   <title>110-Jahr-Feier-083</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="11.6506834" latitude="48.19189835" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/110-Jahr-Feier-083.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-088</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-088.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-095</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-095.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-097</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-097.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-098</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-098.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-101</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-101.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-102</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-102.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-107</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-107.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-108</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-108.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-112</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="711" src="medium/110-Jahr-Feier-112.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-114</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-114.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-118</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-118.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-120</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/110-Jahr-Feier-120.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-122</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/110-Jahr-Feier-122.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-123</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/110-Jahr-Feier-123.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-127</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-127.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-128</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-128.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-130</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-130.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-132</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-132.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-133</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/110-Jahr-Feier-133.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-136</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="710" src="medium/110-Jahr-Feier-136.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-137</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="710" size="medium" height="1066" src="medium/110-Jahr-Feier-137.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-139</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="711" src="medium/110-Jahr-Feier-139.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-142</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="599" src="medium/110-Jahr-Feier-142.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-147</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-147.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-148</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-148.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-149</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-149.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-152</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-152.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-154</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-154.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-155</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="772" src="medium/110-Jahr-Feier-155.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-156</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-156.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-157</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-157.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-158</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="705" src="medium/110-Jahr-Feier-158.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-160</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-160.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-161</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-161.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-164</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-164.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-166</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-166.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-167</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-167.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-168</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-168.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-170</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-170.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-171</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-171.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-174</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-174.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-177</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-177.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-178</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-178.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-180</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-180.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-181</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="709" src="medium/110-Jahr-Feier-181.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>110-Jahr-Feier-186</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="710" src="medium/110-Jahr-Feier-186.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

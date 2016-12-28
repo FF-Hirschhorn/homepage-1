@@ -1,0 +1,23 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-023.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-023.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-040.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-040.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-048.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-048.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-061.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-061.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-072.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-072.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-081.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-081.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-087.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-087.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-106.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-106.jpg" />
+  <file dest="resources\media\sliding\medium\Hochzeit Holfelder-125.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Hochzeit Holfelder-125.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="sliding.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\sliding.swf" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/sliding/name=Sliding" />
+    <description value="$$$/pseGalleries/sliding/description=Your photos slide in when you click them, changing from black and white to color. Include captions in your photos to tell a story." />
+    <creator company="Adobe" designer="Amy Casillas and Wayne Jiang" />
+    <category value="$$$/category/Classic=Classic" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <sizes>
+        <size name="medium" width="1066" height="800" />
+    </sizes>
+</PSEContent>
+

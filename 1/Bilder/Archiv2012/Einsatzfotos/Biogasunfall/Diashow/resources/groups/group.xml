@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Diashow-Fotos 9</galleryName>
+  <galleryDescription>Maximal 9 Fotos. Ihre Fotos befinden sich in einem Raster und werden bei Auswahl richtig positioniert.</galleryDescription>
+  <creator designer="Amy Casillas" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Biogasunfall in Hirschhorn-Egelsberg</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1066" maxheight="1066" />
+ </sizes>
+ <media baseUrl="resources/media/slidingphotos-9" videoBaseUrl="resources/media/slidingphotos-9" >
+  <item>
+   <title>Biogasunfall-01</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76616669" latitude="48.35549927" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-04</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76616669" latitude="48.35549927" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-09</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76666641" latitude="48.35566711" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-10</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76616669" latitude="48.35583496" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-10.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-13</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.7658329" latitude="48.3504982" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-13.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-14</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.7658329" latitude="48.3504982" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-15</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76616669" latitude="48.3504982" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-15.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-18</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76633358" latitude="48.35033417" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-18.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Biogasunfall-19</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.76633358" latitude="48.35033417" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Biogasunfall-19.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

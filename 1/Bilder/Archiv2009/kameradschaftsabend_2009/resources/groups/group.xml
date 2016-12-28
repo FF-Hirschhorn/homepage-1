@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Gleiten</galleryName>
+  <galleryDescription>Fotos werden durch Klicken in die Mitte der Seite verschoben und in Farbe angezeigt. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Kameradschaftsabend 2009</pageTitle>
+   <pageSubtitle>Ehrungen und Ansprachen</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="608" maxheight="456" />
+ </sizes>
+ <media>
+  <item>
+   <title>KA-2009-01</title>
+   <description>Bürgermeister Ludwig Watzinger</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-02</title>
+   <description>Stellv. Landrat Alois Maier</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-08</title>
+   <description>Ehrungen für 25-jährige aktive Dienstzeit</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-09</title>
+   <description>Kreisbrandmeister Anton Durner</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-19</title>
+   <description>Überreichung der Leistungsabzeichen</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-22</title>
+   <description>Überreichung der Prüfungszeugnisse für den erfolgreich abgelegten Maschinistenkurs an Konrad Plötz und Andreas Ries</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-22.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-26</title>
+   <description>Geschenke der Feuerwehr für 25-jährige aktive Dienstzeit</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-26.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-30</title>
+   <description>Ehrungen für 30-jährige aktive Dienstzeit</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-30.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-32</title>
+   <description>Andreas Freilinger wird aus dem aktiven Dienst verabschiedet</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-32.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-36</title>
+   <description>Ehrungen für 50-jährige Mitgliedschaft</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-36.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KA-2009-38</title>
+   <description>Ehrung von Xaver Gumbiller für 60-jährige Mitgliedschaft</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/KA-2009-38.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

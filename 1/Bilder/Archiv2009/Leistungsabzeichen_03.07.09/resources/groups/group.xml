@@ -1,0 +1,740 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Spiegelung</galleryName>
+  <galleryDescription>Fotos werden auf einem dreidimensionalen Kreis angeordnet und können beliebig gedreht und vergrößert werden.</galleryDescription>
+  <creator designer="German Bauer and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Leistungsprüfung Feuerwehr Hirschhorn</pageTitle>
+   <pageSubtitle>3. Juli 2009</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="640" maxheight="480" />
+ </sizes>
+ <media>
+  <item>
+   <title>LAZ-09-01</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-03</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-03.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-04</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-05</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-05.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-06</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-06.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-07</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-07.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-09</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-10</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-10.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-11</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-11.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-12</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-12.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-13</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-13.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-14</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-15</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-15.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-16</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-16.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-17</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-17.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-18</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-18.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-19</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-20</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-20.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-21</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-21.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-22</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-22.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-23</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-23.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-24</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-24.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-25</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-25.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-26</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-26.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-27</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-27.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-28</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-28.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-29</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-29.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-30</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-30.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-31</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-31.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-32</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-32.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-33</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-33.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-34</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-34.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-35</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-35.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-36</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-36.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-37</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-37.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-38</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-38.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-39</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-39.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-40</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-40.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-41</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-41.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-42</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-42.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-43</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-43.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-44</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-44.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-45</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-45.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-46</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-46.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-47</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-47.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-48</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-48.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-49</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-49.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-50</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-50.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-51</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-51.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-52</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-52.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-53</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-53.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-54</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-54.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-55</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-55.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-56</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-56.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-57</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-57.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-58</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-58.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-59</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-59.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>LAZ-09-60</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/LAZ-09-60.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Autotour</galleryName>
+  <galleryDescription>Zeigen Sie Ihre Urlaubsfotos mit dieser interaktiven Vorlage an. </galleryDescription>
+  <creator designer="James Karsberg and James Laver" company="Lightmaker" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <windowSize width="-1024" height="-575" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Vereinsausflug nach Hirschhorn am Neckar</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="thumb" maxwidth="260" maxheight="260" />
+  <imageSize size="medium" maxwidth="1030" maxheight="1030" />
+  <imageSize size="video" maxwidth="640" maxheight="480" />
+ </sizes>
+ <media baseUrl="resources/media/roadtrip" videoBaseUrl="resources/media/roadtrip" >
+  <item>
+   <title>Hirschhorn 2011 008</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 008.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 008.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 015</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 015.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 015.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 019</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 019.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 019.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 025</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 025.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 025.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 035</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 035.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 035.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 036</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 036.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 036.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 042</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 042.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 042.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 043</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 043.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 043.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 044</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 044.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 044.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 045</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 045.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 045.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 046</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 046.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 046.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 047</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 047.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 047.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 054</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 054.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 054.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 060</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 060.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 060.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 068</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 068.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 068.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 070</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 070.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 070.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 072</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 072.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 072.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 095</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 095.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 095.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 099</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 099.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 099.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 101</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 101.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 101.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 106</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 106.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 106.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 111</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 111.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 111.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 114</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 114.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 114.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 117</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 117.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 117.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 121</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 121.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 121.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 123</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 123.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 123.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 127</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 127.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 127.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 128</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 128.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 128.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 133</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 133.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 133.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 148</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 148.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 148.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 152</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 152.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 152.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 154</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 154.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 154.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 160</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="260" size="thumb" height="195" src="thumb/Hirschhorn 2011 160.jpg" />
+    <rendition width="1030" size="medium" height="772" src="medium/Hirschhorn 2011 160.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hirschhorn 2011 163</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="195" size="thumb" height="260" src="thumb/Hirschhorn 2011 163.jpg" />
+    <rendition width="772" size="medium" height="1030" src="medium/Hirschhorn 2011 163.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

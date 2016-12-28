@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/4x5transparency_ps/name=4x5 Transparency" />
+    <description value="$$$/pseGalleries/4x5transparency/description=Display your photos in 4x5 Transparency frames. The frames slide into place, and can be moved after they land." />
+    <creator company="Adobe" designer="Amy Casillas and Wayne Jiang" />
+    <category value="$$$/category/Travel=Travel" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <category value="$$$/category/Classic=Classic" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <sizes>
+        <size name="medium" width="1066" height="800" />
+    </sizes>
+</PSEContent>
+

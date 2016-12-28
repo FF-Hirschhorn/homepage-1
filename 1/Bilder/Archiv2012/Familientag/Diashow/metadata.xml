@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/reflection/name=Reflection" />
+    <description value="$$$/pseGalleries/reflection/description=Your photos are arranged in a 3D circle, and can be rotated and zoomed for closer viewing." />
+    <creator company="Adobe" designer="Amy Casillas and Wayne Jiang" />
+       <category value="$$$/category/Classic=Classic" >
+	    <subcategory value="$$$/subcategory/Subcategory=Subcategory"/>
+    </category>
+
+    <sizes>
+        <size name="medium" width="1066" height="800" />
+    </sizes>
+</PSEContent>
+

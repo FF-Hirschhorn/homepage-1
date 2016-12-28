@@ -1,0 +1,29 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-02.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-02.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-04.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-04.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-09.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-09.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-19.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-19.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-20.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-20.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-22.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-22.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-25.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-25.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-26.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-26.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-32.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-32.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-36.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-36.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-38.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-38.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-42.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-42.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-46.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-46.jpg" />
+  <file dest="resources\media\sliding\medium\Einsatz-LKW-50.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Einsatz-LKW-50.jpg" />
+  <file dest="resources\media\sliding\medium\Zeitungsbericht.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\sliding\medium\Zeitungsbericht.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="sliding.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\sliding.swf" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

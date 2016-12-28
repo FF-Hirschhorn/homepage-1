@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Alte Landkarte</galleryName>
+  <galleryDescription>Fotos werden auf einer alten Landkarte als Postkarten angezeigt und können vergrößert, verkleinert und verschoben werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Handdruckspritzenwettbewerb in Tannenbach</pageTitle>
+   <pageSubtitle>am 23. August 2009</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="678" maxheight="508" />
+ </sizes>
+ <media>
+  <item>
+   <title>Bleistiftzeichnung</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/Bleistiftzeichnung.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-10</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-10.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-14</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-16</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-16.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-18</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-18.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-21</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-21.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-25</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-25.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-27</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-27.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-28</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-28.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-30</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-30.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-31</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-31.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-34</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-34.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-35</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-35.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HSW-2009-46</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/HSW-2009-46.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Sepia</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="678" size="medium" height="508" src="resources/media/oldmap/medium/Sepia.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

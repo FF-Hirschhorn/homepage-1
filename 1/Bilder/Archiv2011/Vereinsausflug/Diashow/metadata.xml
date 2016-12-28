@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PSEContent xmlns="http://ns.adobe.com/PSEContent/2.0/">
+    <type value="gallery_template" />
+    <subscription value="free" />
+
+    <name value="$$$/pseGalleries/roadtrip/name=Road Trip" />
+    <description value="$$$/pseGalleries/roadtrip/description=Show your vacation photos in this interactive template.  Include captions in your photos to tell a story." />
+    <creator company="Lightmaker" designer="James Karsberg and James Laver" />
+    <category value="$$$/category/Family=Family" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <category value="$$$/category/Travel=Travel" >
+	    <subcategory value="$$$/subcategory/SubCategory=SubCategory"/>
+    </category>
+    <sizes>
+        <size name="large" width="1030" height="1030" />
+    </sizes>
+</PSEContent>
+

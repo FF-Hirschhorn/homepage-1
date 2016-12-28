@@ -1,0 +1,30 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="GalleryMaker.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="oldmap.swf" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\oldmap.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\oldmap\medium\Bleistiftzeichnung.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\Bleistiftzeichnung.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-02.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-02.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-08.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-08.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-10.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-10.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-14.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-14.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-16.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-16.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-18.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-18.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-21.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-21.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-25.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-25.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-27.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-27.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-28.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-28.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-30.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-30.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-31.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-31.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-34.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-34.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-35.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-35.jpg" />
+  <file dest="resources\media\oldmap\medium\HSW-2009-46.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\HSW-2009-46.jpg" />
+  <file dest="resources\media\oldmap\medium\Sepia.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\oldmap\medium\Sepia.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

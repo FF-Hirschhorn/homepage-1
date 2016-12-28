@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker xmlns="http://ns.adobe.com/AMG/" >
+    <amgVersion>1.2</amgVersion>
+    <galleryInfo>
+        <galleryName>4x5-Diarahmen</galleryName>
+        <galleryDescription>Fotos werden in 4x5-Diarahmen übereinander angezeigt. Diese können beliebig verschoben werden.</galleryDescription>
+        <creator designer="Amy Casillas" company="Adobe" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+        <formatsSupported>images</formatsSupported>
+    </galleryInfo>
+    <sizes>
+        <size width="1066" height="1066" name="medium" ></size>
+    </sizes>
+    <mx:application xmlns="*" backgroundcolor="#000000" xmlns:mx="http://www.macromedia.com/2005/mxml" >
+        <mx:model id="appearance" >
+            <background>
+                <backgroundColor>4D4D4D</backgroundColor>
+            </background>
+            <pageOptions>
+                <showCaptions>true</showCaptions>
+                <includeSoundEffects>false</includeSoundEffects>
+                <pageTitle>Eigene Bilder</pageTitle>
+                <pageSubtitle></pageSubtitle>
+            </pageOptions>
+        </mx:model>
+        <mx:model id="metadata" ></mx:model>
+        <!-- Views -->
+        <mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Titel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="titleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Untertitel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="subtitleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:hbox verticalalign="middle" >
+                <mx:label text="Hintergrundfarbe:" ></mx:label>
+                <mx:colorpicker id="backgroundColorView" ></mx:colorpicker>
+            </mx:hbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:checkbox id="includeSoundEffectsView" label="Mit Audioeffekten" ></mx:checkbox>
+            </mx:vbox>
+        </mx:vbox>
+        <!-- Bindings -->
+        <mx:binding destination="appearance.pageOptions.pageTitle" source="titleView.text" ></mx:binding>
+        <mx:binding destination="titleView.text" source="appearance.pageOptions.pageTitle" ></mx:binding>
+        <mx:binding destination="appearance.pageOptions.pageSubtitle" source="subtitleView.text" ></mx:binding>
+        <mx:binding destination="subtitleView.text" source="appearance.pageOptions.pageSubtitle" ></mx:binding>
+        <mx:binding destination="appearance.background.backgroundColor" source="backgroundColorView.selectedColor" ></mx:binding>
+        <mx:binding destination="backgroundColorView.selectedColor" source="appearance.background.backgroundColor" ></mx:binding>
+        <mx:binding destination="appearance.pageOptions.includeSoundEffects" source="includeSoundEffectsView.selected" ></mx:binding>
+        <mx:binding destination="includeSoundEffectsView.selected" source="appearance.pageOptions.includeSoundEffects" ></mx:binding>4D4D4DtruefalseEigene Bilder</mx:application>
+</galleryMaker>

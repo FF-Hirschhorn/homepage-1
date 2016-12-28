@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Bildband</galleryName>
+  <galleryDescription>Ein klassisches Buch zur Anzeige Ihrer Fotos. Blättern Sie ganz normal um, um durch das Buch zu blättern.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Kommandantenball in Hirschhorn am Neckar</pageTitle>
+   <pageSubtitle>am 7. November 2008</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+   <finalPage>Herzlichen Dank an unsere Freunde in Hirschhorn am Neckar</finalPage>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="400" maxheight="300" />
+ </sizes>
+ <media>
+  <item>
+   <title>KDT-Ball-01</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-04</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-05</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-05.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-06</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-06.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-07</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-07.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-09</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-12</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-12.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-13</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-13.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-17</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-17.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-19</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-20</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-20.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-21</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-21.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-22</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-22.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-23</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-23.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-25</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-25.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-29</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-29.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-31</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-31.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-35</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-35.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-39</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-39.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-41</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-41.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-42</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-42.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-45</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-45.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-47</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-47.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-51</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-51.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-53</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-53.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-55</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-55.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-56</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-56.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-61</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-61.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-62</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-62.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-68</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-68.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-69</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-69.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-71</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-71.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-74</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-74.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>KDT-Ball-76</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="400" size="medium" height="300" src="resources/media/photobook/medium/KDT-Ball-76.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

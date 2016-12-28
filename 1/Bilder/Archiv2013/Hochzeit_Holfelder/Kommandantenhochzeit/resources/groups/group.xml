@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Gleiten</galleryName>
+  <galleryDescription>Fotos werden durch Klicken in die Mitte der Seite verschoben und in Farbe angezeigt. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Hochzeit von Stefanie und Stefan Holfelder</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1066" maxheight="1066" />
+ </sizes>
+ <media baseUrl="resources/media/sliding" videoBaseUrl="resources/media/sliding" >
+  <item>
+   <title>Hochzeit Holfelder-023</title>
+   <description>Spalierstehen in Gern</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.77693367" latitude="48.40166855" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-023.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-040</title>
+   <description>Der Brautwagen - unser alter VW T2</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.77700043" latitude="48.40008163" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-040.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-048</title>
+   <description>Wir warten auf´s Brautpaar</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.7564497" latitude="48.36448288" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-048.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-061</title>
+   <description>Feuerwehrspalier in Hirschhorn</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.75658321" latitude="48.36468506" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-061.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-072</title>
+   <description>Die Feuerwehr gratuliert ganz herzlich!</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.75606632" latitude="48.36478424" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-072.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-081</title>
+   <description>Modell unseres VW-Busses als Brautgeschenk</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.7560997" latitude="48.36473465" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-081.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-087</title>
+   <description>Die Hochzeitstorte im Feuerwehr- und Faschingsdesign</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.7560997" latitude="48.36473465" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-087.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-106</title>
+   <description>Ungeplantes Brautstehlen beim Maihofer in Hirschhorn</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.75529957" latitude="48.36304855" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-106.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Hochzeit Holfelder-125</title>
+   <description>Der Bräutigam muss büßen</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="12.75520039" latitude="48.36294937" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Hochzeit Holfelder-125.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

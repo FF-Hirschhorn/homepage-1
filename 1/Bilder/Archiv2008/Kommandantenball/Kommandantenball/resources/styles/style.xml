@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<photoGalleryStyle>
+ <appearance>
+  <background backgroundColor="CAA85E" />
+  <pageOptions includeSoundEffects="false" showCaptions="false" />
+ </appearance>
+</photoGalleryStyle>

@@ -1,0 +1,8 @@
+<photoGalleryStyle>
+ <appearance>
+  <customStyleItem itemName="GalleryTint" value="30" className="TextStyleItem" />
+  <customStyleItem itemName="MusicVolume" value="20" className="TextStyleItem" />
+  <customStyleItem itemName="GalleryColor" value="13369344" className="TextStyleItem" />
+  <customStyleItem itemName="GalleryTitle" value="" className="TextStyleItem" />
+ </appearance>
+</photoGalleryStyle>

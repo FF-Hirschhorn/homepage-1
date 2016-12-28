@@ -1,0 +1,28 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="GalleryMaker.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\sliding\medium\Gruppe-Hirschhorn_bearbeitet-1.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\Gruppe-Hirschhorn_bearbeitet-1.jpg" />
+  <file dest="resources\media\sliding\medium\Gruppe_bearbeitet-1.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\Gruppe_bearbeitet-1.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-01.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-01.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-02.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-02.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-04.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-04.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-05.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-05.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-07.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-07.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-08.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-08.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-09.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-09.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-11.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-11.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-13.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-13.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-14.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-14.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-15.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-15.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-16.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-16.jpg" />
+  <file dest="resources\media\sliding\medium\SF-10-08-17.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\sliding\medium\SF-10-08-17.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="sliding.swf" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\sliding.swf" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

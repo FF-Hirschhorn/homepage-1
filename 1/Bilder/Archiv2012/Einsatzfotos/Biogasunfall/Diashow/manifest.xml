@@ -1,0 +1,23 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-01.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-01.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-04.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-04.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-09.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-09.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-10.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-10.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-13.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-13.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-14.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-14.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-15.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-15.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-18.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-18.jpg" />
+  <file dest="resources\media\slidingphotos-9\medium\Biogasunfall-19.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\slidingphotos-9\medium\Biogasunfall-19.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="slidingphotos-9.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\slidingphotos-9.swf" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker>
+    <galleryInfo>
+        <galleryName>Spiegelung</galleryName>
+        <galleryDescription>Fotos werden auf einem dreidimensionalen Kreis angeordnet und können beliebig gedreht und vergrößert werden.</galleryDescription>
+        <creator designer="German Bauer and Wayne Jiang" company="Adobe" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+    </galleryInfo>
+    <sizes>
+        <size width="640" height="480" name="medium" ></size>
+    </sizes>
+    <mx:application xmlns="*" backgroundcolor="#FFFFFF" xmlns:mx="http://www.macromedia.com/2005/mxml" >
+        <mx:model id="appearance" >
+            <background>
+                <backgroundColor>000000</backgroundColor>
+            </background>
+            <pageOptions>
+                <showCaptions>true</showCaptions>
+            </pageOptions>
+        </mx:model>
+        <mx:model id="metadata" >
+            <pageTitle>Eigene Bilder</pageTitle>
+            <pageSubtitle></pageSubtitle>
+            <emailAddress></emailAddress>
+        </mx:model>
+<!-- Views -->        <mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Titel:" ></mx:label>
+                <mx:textinput width="143" maxchars="40" editable="true" id="titleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Untertitel:" ></mx:label>
+                <mx:textinput width="143" maxchars="36" editable="true" id="subtitleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="E-Mail-Adresse:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="emailAddressView" ></mx:textinput>
+            </mx:vbox>
+            <mx:hbox verticalalign="middle" >
+                <mx:label text="Hintergrundfarbe:" ></mx:label>
+                <mx:colorpicker id="backgroundColorView" ></mx:colorpicker>
+            </mx:hbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:checkbox id="showCaptionsView" label="Bildtitel einblenden" ></mx:checkbox>
+            </mx:vbox>
+        </mx:vbox>
+<!-- Bindings -->        <mx:binding destination="metadata.pageTitle" source="titleView.text" ></mx:binding>
+        <mx:binding destination="titleView.text" source="metadata.pageTitle" ></mx:binding>
+        <mx:binding destination="metadata.pageSubtitle" source="subtitleView.text" ></mx:binding>
+        <mx:binding destination="subtitleView.text" source="metadata.pageSubtitle" ></mx:binding>
+        <mx:binding destination="metadata.emailAddress" source="emailAddressView.text" ></mx:binding>
+        <mx:binding destination="emailAddressView.text" source="metadata.emailAddress" ></mx:binding>
+        <mx:binding destination="appearance.background.backgroundColor" source="backgroundColorView.selectedColor" ></mx:binding>
+        <mx:binding destination="backgroundColorView.selectedColor" source="appearance.background.backgroundColor" ></mx:binding>
+        <mx:binding destination="appearance.pageOptions.showCaptions" source="showCaptionsView.selected" ></mx:binding>
+        <mx:binding destination="showCaptionsView.selected" source="appearance.pageOptions.showCaptions" ></mx:binding>000000trueEigene Bilder</mx:application>
+</galleryMaker>

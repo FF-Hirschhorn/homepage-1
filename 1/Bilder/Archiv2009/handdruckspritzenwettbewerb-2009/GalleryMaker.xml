@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker xmlns="http://ns.adobe.com/AMG/" >
+    <amgVersion>1.2</amgVersion>
+    <galleryInfo>
+        <galleryName>Alte Landkarte</galleryName>
+        <galleryDescription>Fotos werden auf einer alten Landkarte als Postkarten angezeigt und können vergrößert, verkleinert und verschoben werden.</galleryDescription>
+        <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+    </galleryInfo>
+    <sizes>
+        <size width="678" height="508" name="medium" ></size>
+    </sizes>
+    <mx:application xmlns="*" backgroundcolor="#FFFFFF" xmlns:mx="http://www.macromedia.com/2005/mxml" >
+        <mx:model id="appearance" >
+            <pageOptions>
+                <useOldPhotoEffect>true</useOldPhotoEffect>
+            </pageOptions>
+        </mx:model>
+        <mx:model id="metadata" >
+            <pageTitle>Eigene Bilder</pageTitle>
+            <pageSubtitle></pageSubtitle>
+            <emailAddress></emailAddress>
+        </mx:model>
+<!-- Views -->        <mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Titel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="titleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Untertitel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="subtitleView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="E-Mail-Adresse:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="emailAddressView" ></mx:textinput>
+            </mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:checkbox id="useOldPhotoEffectView" label="Effekt &quot;Altes Foto&quot; anwenden" ></mx:checkbox>
+            </mx:vbox>
+        </mx:vbox>
+<!-- Bindings -->        <mx:binding destination="metadata.pageTitle" source="titleView.text" ></mx:binding>
+        <mx:binding destination="titleView.text" source="metadata.pageTitle" ></mx:binding>
+        <mx:binding destination="metadata.pageSubtitle" source="subtitleView.text" ></mx:binding>
+        <mx:binding destination="subtitleView.text" source="metadata.pageSubtitle" ></mx:binding>
+        <mx:binding destination="metadata.emailAddress" source="emailAddressView.text" ></mx:binding>
+        <mx:binding destination="emailAddressView.text" source="metadata.emailAddress" ></mx:binding>
+        <mx:binding destination="appearance.pageOptions.useOldPhotoEffect" source="useOldPhotoEffectView.selected" ></mx:binding>
+        <mx:binding destination="useOldPhotoEffectView.selected" source="appearance.pageOptions.useOldPhotoEffect" ></mx:binding>trueEigene Bilder</mx:application>
+</galleryMaker>

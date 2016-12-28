@@ -1,0 +1,60 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="classic.swf" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\classic.swf" />
+  <file dest="gallerymaker.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-218.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-218.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-220.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-220.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-221.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-221.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-222.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-222.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-224.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-224.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-229.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-229.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-244.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-244.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-255.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-255.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-259.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-259.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-261.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-261.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-272.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-272.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-274.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-274.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-278.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-278.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-283.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-283.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-286.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-286.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-291.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-291.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-294.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-294.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-298.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-298.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-302.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-302.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-309.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-309.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-315.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-315.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-316.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-316.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-320.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-320.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-327.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-327.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-333.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-333.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-337.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-337.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-338.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-338.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-340.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-340.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-349.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-349.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-353.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-353.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-357.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-357.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-362.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-362.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-364.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-364.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-371.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-371.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-373.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-373.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-376.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-376.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-386.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-386.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-392.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-392.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-399.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-399.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-403.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-403.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-404.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-404.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-411.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-411.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-413.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-413.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-420.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-420.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-425.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-425.jpg" />
+  <file dest="resources\media\classic\medium\110-Jahr-Feier-455.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\classic\medium\110-Jahr-Feier-455.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="thumbnail.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

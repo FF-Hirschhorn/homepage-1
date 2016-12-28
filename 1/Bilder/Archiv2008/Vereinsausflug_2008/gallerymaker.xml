@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker>
+    <galleryInfo>
+        <galleryName>Autotour</galleryName>
+        <galleryDescription>Zeigen Sie Ihre Urlaubsfotos in dieser interaktiven Galerie an. Fügen Sie Beschriftungen hinzu, um eine Geschichte zu erzählen.</galleryDescription>
+        <creator designer="James Karsberg and James Laver" company="Lightmaker" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+        <windowSize width="-1024" height="-575" ></windowSize>
+    </galleryInfo>
+    <sizes>
+        <size width="1024" height="575" name="medium" ></size>
+    </sizes>
+<!-- Gallery Settings -->    <gallerySettings>
+        <setting id="GroupsPath" >resources/groups/group.xml</setting>
+        <setting id="StylesPath" >resources/styles/style.xml</setting>
+    </gallerySettings>
+<!-- Interface Labels -->    <mx:application xmlns="*" backgroundcolor="#FFFFFF" xmlns:mx="http://www.macromedia.com/2005/mxml" >
+        <mx:model id="metadata" >
+            <pageTitle>Eigene Bilder</pageTitle>
+        </mx:model>
+<!-- Views -->        <mx:vbox>
+            <mx:vbox verticalalign="middle" >
+                <mx:label text="Titel:" ></mx:label>
+                <mx:textinput width="143" maxchars="50" editable="true" id="titleView" ></mx:textinput>
+            </mx:vbox>
+        </mx:vbox>
+<!-- Bindings -->        <mx:binding destination="metadata.pageTitle" source="titleView.text" ></mx:binding>
+        <mx:binding destination="titleView.text" source="metadata.pageTitle" ></mx:binding>Eigene Bilder</mx:application>
+</galleryMaker>

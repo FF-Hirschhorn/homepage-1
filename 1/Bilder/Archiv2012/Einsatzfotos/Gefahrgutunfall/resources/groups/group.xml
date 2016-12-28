@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Gleiten</galleryName>
+  <galleryDescription>Fotos werden durch Klicken in die Mitte der Seite verschoben und in Farbe angezeigt. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <formatsSupported>images</formatsSupported>
+  <custom>
+   <pageTitle>Gefahrgutunfall auf der B588 bei Hirschhorn</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1066" maxheight="1066" />
+ </sizes>
+ <media baseUrl="resources/media/sliding" videoBaseUrl="resources/media/sliding" >
+  <item>
+   <title>Einsatz-LKW-02</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-04</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="708" src="medium/Einsatz-LKW-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-09</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-19</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-19.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-20</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-20.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-22</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Einsatz-LKW-22.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-25</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-25.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-26</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="707" src="medium/Einsatz-LKW-26.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-32</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="799" size="medium" height="1066" src="medium/Einsatz-LKW-32.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-36</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Einsatz-LKW-36.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-38</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="799" size="medium" height="1066" src="medium/Einsatz-LKW-38.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-42</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="799" size="medium" height="1066" src="medium/Einsatz-LKW-42.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-46</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="799" size="medium" height="1066" src="medium/Einsatz-LKW-46.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Einsatz-LKW-50</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1066" size="medium" height="799" src="medium/Einsatz-LKW-50.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Zeitungsbericht</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="958" size="medium" height="1066" src="medium/Zeitungsbericht.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

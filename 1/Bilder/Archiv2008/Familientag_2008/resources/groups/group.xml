@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Klassisch</galleryName>
+  <galleryDescription>Ein klassisches Format, in dem Ihre Fotos einzeln gezeigt werden. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Spritzenfest 2008</pageTitle>
+   <pageSubtitle>mit Kinder-Spritzenwettbewerb - am 20. Juli 2008</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="673" maxheight="505" />
+ </sizes>
+ <media>
+  <item>
+   <title>Spritzenfest 2008-2-001</title>
+   <description>Ich bin ein Star - holt mich hier raus!</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-001.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-006</title>
+   <description>Erste Anlaufstelle - Kuchenwagen</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-006.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-008</title>
+   <description>In der Grillbude wird bereits fleißig gearbeitet</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-008.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-009</title>
+   <description>Besprechung am Kuchenwagen</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-009.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-011</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-011.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-012</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-012.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-013</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-013.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-047</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-047.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-014</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-014.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-048</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-048.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-015</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-015.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-049</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-049.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-016</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-016.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-050</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-050.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-017</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-017.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-018</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-018.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-019</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-019.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-020</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-020.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-022</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-022.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-023</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-023.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-025</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-025.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-026</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-026.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-027</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-027.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-028</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-028.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-029</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-029.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-030</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-030.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-032</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-032.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-033</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-033.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-034</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-034.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-036</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-036.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-037</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-037.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-038</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-038.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-039</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-039.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-040</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-040.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-051</title>
+   <description>Andrang bei den Steckerlfischen von Max und Traudl Öller</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-051.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-052</title>
+   <description>Die Grillküche ist voll beschäftigt</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-052.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-041</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-041.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-042</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-042.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-043</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-043.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-045</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-045.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-046</title>
+   <description>Kinderspritzenwettbewerb 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-046.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-054</title>
+   <description>Das Festzelt ist Mittags voll</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-054.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-059</title>
+   <description>Die Kinder vom Spritzenwettbewerb mit den Ausrichtern</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-059.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest 2008-2-063</title>
+   <description>Die SIEGER 2008</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="673" size="medium" height="505" src="resources/media/classic/medium/Spritzenfest=202008-2-063.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

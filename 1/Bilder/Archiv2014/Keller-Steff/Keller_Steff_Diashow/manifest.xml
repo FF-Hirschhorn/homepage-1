@@ -1,0 +1,43 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="gallerymaker.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\gallerymaker.xml" />
+  <file dest="index.html" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="metadata.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\metadata.xml" />
+  <file dest="reflection.swf" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\reflection.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\reflection\medium\auf_Tour.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\auf_Tour.jpg" />
+  <file dest="resources\media\reflection\medium\Band-1.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-1.jpg" />
+  <file dest="resources\media\reflection\medium\Band-2.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-2.jpg" />
+  <file dest="resources\media\reflection\medium\Band-3.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-3.jpg" />
+  <file dest="resources\media\reflection\medium\Band-4.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-4.jpg" />
+  <file dest="resources\media\reflection\medium\Band-5.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-5.jpg" />
+  <file dest="resources\media\reflection\medium\Band-6.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-6.jpg" />
+  <file dest="resources\media\reflection\medium\Band-7.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-7.jpg" />
+  <file dest="resources\media\reflection\medium\Band-8.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-8.jpg" />
+  <file dest="resources\media\reflection\medium\Band-9.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Band-9.jpg" />
+  <file dest="resources\media\reflection\medium\Bulldog.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Bulldog.jpg" />
+  <file dest="resources\media\reflection\medium\Chris-1.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Chris-1.jpg" />
+  <file dest="resources\media\reflection\medium\Chris-2.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Chris-2.jpg" />
+  <file dest="resources\media\reflection\medium\Chris-3.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Chris-3.jpg" />
+  <file dest="resources\media\reflection\medium\Eicher.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Eicher.jpg" />
+  <file dest="resources\media\reflection\medium\Franzi-1.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Franzi-1.jpg" />
+  <file dest="resources\media\reflection\medium\Franzi-2.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Franzi-2.jpg" />
+  <file dest="resources\media\reflection\medium\Franzi-3.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Franzi-3.jpg" />
+  <file dest="resources\media\reflection\medium\Gerhart-1.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Gerhart-1.jpg" />
+  <file dest="resources\media\reflection\medium\Gerhart-2.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Gerhart-2.jpg" />
+  <file dest="resources\media\reflection\medium\Gerhart-3.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Gerhart-3.jpg" />
+  <file dest="resources\media\reflection\medium\langsam_pressiert´s.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\langsam_pressiert´s.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-1.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-1.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-2.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-2.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-3.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-3.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-4.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-4.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-5.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-5.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-6.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-6.jpg" />
+  <file dest="resources\media\reflection\medium\Steff-7.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Steff-7.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="thumbnail.jpg" src="C:\Users\Manfred\AppData\Local\Temp\Photo Galleries Temp\thumbnail.jpg" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

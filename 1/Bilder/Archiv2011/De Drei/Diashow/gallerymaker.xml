@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker>
+    <galleryInfo>
+        <galleryName>Erinnerungen</galleryName>
+        <galleryDescription>Fotos und Videos werden in einem zentralen Stapel eingeblendet und dann schnell verteilt. Die Fotos und Videos bewegen sich dabei kurzzeitig von der Bühne.</galleryDescription>
+        <creator designer="Dhileep Kattakayam, Gijo George, Soumen Paul and Syam Mohan" company="ASSYST Inc." ></creator>
+        <category>Classic</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+        <windowSize width="-1200" height="-812" ></windowSize>
+        <formatsSupported>imagesandvideos</formatsSupported>
+    </galleryInfo>
+    <sizes>
+        <size width="175" height="175" name="thumb" ></size>
+        <size width="1030" height="1030" name="large" ></size>
+        <size width="640" height="480" name="video" ></size>
+    </sizes>
+    <!-- Gallery Settings -->
+    <gallerySettings>
+        <setting id="GroupsPath" >resources/groups/group.xml</setting>
+        <setting id="StylesPath" >resources/styles/style.xml</setting>
+    </gallerySettings>
+    <!-- Interface Labels -->
+    <galleryInterface>
+        <label id="SOUND_ON" >Stumm deakt.</label>
+        <label id="SOUND_OFF" >Stumm</label>
+        <label id="AUTO_PLAY" >Abspielen</label>
+        <label id="AUTO_STOP" >Anhalten</label>
+        <label id="PREVIOUS" >Zurück</label>
+        <label id="NEXT" >Weiter</label>
+        <label id="DISPLAY_CAPTION" >Bildtitel anzeigen</label>
+        <label id="CLOSE" >Schließen</label>
+        <label id="BUFFERING" >Pufferung...</label>
+        <label id="LOADING" >Laden...</label>
+        <label id="ERROR" >Fehler</label>
+    </galleryInterface>
+</galleryMaker>

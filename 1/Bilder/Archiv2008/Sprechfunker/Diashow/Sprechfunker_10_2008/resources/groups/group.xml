@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Gleiten</galleryName>
+  <galleryDescription>Fotos werden durch Klicken in die Mitte der Seite verschoben und in Farbe angezeigt. Die Bilder können beschriftet werden.</galleryDescription>
+  <creator designer="Amy Casillas and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Sprechfunkerlehrgang in Mitterskirchen</pageTitle>
+   <pageSubtitle>20. bis 27. Oktober 2008</pageSubtitle>
+   <emailAddress>feuerwehr@hirschhorn.info</emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="608" maxheight="456" />
+ </sizes>
+ <media>
+  <item>
+   <title>SF-10-08-01</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-01.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-02</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-02.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-04</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-04.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-05</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-05.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-07</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-07.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-08</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-08.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-09</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-09.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-11</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-11.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-13</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-13.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-14</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-15</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-15.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-16</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-16.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>SF-10-08-17</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/SF-10-08-17.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Gruppe_bearbeitet-1</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/Gruppe_bearbeitet-1.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Gruppe-Hirschhorn_bearbeitet-1</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="608" size="medium" height="456" src="resources/media/sliding/medium/Gruppe-Hirschhorn_bearbeitet-1.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

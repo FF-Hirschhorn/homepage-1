@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<galleryMaker>
+    <galleryInfo>
+        <galleryName>Superstar</galleryName>
+        <galleryDescription>Zeigen Sie Ihre Fotos als Kulisse eines Rock-Konzerts an.</galleryDescription>
+        <creator designer="James Karsberg, Szczepan Waclaw, James Laver and Paul Cummins" company="Lightmaker" ></creator>
+        <category>Interactive</category>
+        <thumbnailPath src="gallerythumb.jpg" ></thumbnailPath>
+        <windowSize width="-1024" height="-575" ></windowSize>
+    </galleryInfo>
+    <sizes>
+        <size width="1024" height="575" name="large" ></size>
+        <size width="220" height="220" name="small" ></size>
+    </sizes>
+<!-- Gallery Settings -->    <gallerySettings>
+        <setting id="GroupsPath" >resources/groups/group.xml</setting>
+        <setting id="StylesPath" >resources/styles/style.xml</setting>
+    </gallerySettings>
+<!-- Interface Labels -->    <galleryInterface>
+        <label id="GalleryTitle" >Galerietitel</label>
+        <label id="GalleryColor" >Galeriefarbe</label>
+        <label id="GalleryTint" >Hintergrundfarbstärke</label>
+        <label id="TitlePane" >Titel</label>
+        <label id="ColourPane" >Farbe</label>
+        <label id="TXT_HIDE" >Details ausblenden</label>
+        <label id="TXT_SHOW" >Details einblenden</label>
+    </galleryInterface>
+</galleryMaker>

@@ -1,0 +1,49 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="Kommandantenball\GalleryMaker.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="Kommandantenball\gallerythumb.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="Kommandantenball\index.html" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\index.html" />
+  <file dest="Kommandantenball\manifest.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="Kommandantenball\photobook.swf" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\photobook.swf" />
+  <file dest="Kommandantenball\resources\groups\group.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-01.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-01.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-02.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-02.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-04.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-04.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-05.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-05.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-06.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-06.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-07.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-07.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-08.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-08.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-09.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-09.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-12.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-12.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-13.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-13.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-17.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-17.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-19.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-19.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-20.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-20.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-21.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-21.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-22.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-22.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-23.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-23.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-25.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-25.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-29.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-29.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-31.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-31.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-35.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-35.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-39.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-39.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-41.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-41.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-42.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-42.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-45.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-45.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-47.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-47.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-51.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-51.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-53.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-53.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-55.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-55.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-56.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-56.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-61.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-61.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-62.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-62.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-68.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-68.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-69.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-69.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-71.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-71.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-74.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-74.jpg" />
+  <file dest="Kommandantenball\resources\media\photobook\medium\KDT-Ball-76.jpg" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\media\photobook\medium\KDT-Ball-76.jpg" />
+  <file dest="Kommandantenball\resources\styles\style.xml" src="C:\Dokumente und Einstellungen\Nußbaumer.BÜRO-PC\Lokale Einstellungen\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="Kommandantenball\projectthumb.jpg" src="" />
+ </files>
+</manifest>

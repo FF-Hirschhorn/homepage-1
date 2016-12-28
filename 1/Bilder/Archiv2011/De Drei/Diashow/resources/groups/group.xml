@@ -1,0 +1,1240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Erinnerungen</galleryName>
+  <galleryDescription>Fotos und Videos werden in einem zentralen Stapel eingeblendet und dann schnell verteilt. Die Fotos und Videos bewegen sich dabei kurzzeitig von der Bühne.</galleryDescription>
+  <creator designer="Dhileep Kattakayam, Gijo George, Soumen Paul and Syam Mohan" company="ASSYST Inc." />
+  <category>Classic</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <windowSize width="-1200" height="-812" />
+  <formatsSupported>imagesandvideos</formatsSupported>
+  <custom>
+   <pageTitle>De Drei - 16. Juli 2011</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="thumb" maxwidth="175" maxheight="175" />
+  <imageSize size="large" maxwidth="1030" maxheight="1030" />
+  <imageSize size="video" maxwidth="640" maxheight="480" />
+ </sizes>
+ <media baseUrl="resources/media/gtlmemories" videoBaseUrl="resources/media/gtlmemories" >
+  <item>
+   <title>Spritzenfest-2011-001</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="103" src="thumb/Spritzenfest-2011-001.jpg" />
+    <rendition width="1030" size="large" height="609" src="large/Spritzenfest-2011-001.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-002</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="114" size="thumb" height="175" src="thumb/Spritzenfest-2011-002.jpg" />
+    <rendition width="675" size="large" height="1030" src="large/Spritzenfest-2011-002.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-003</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="130" src="thumb/Spritzenfest-2011-003.jpg" />
+    <rendition width="1030" size="large" height="768" src="large/Spritzenfest-2011-003.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-004</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="116" src="thumb/Spritzenfest-2011-004.jpg" />
+    <rendition width="1030" size="large" height="686" src="large/Spritzenfest-2011-004.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-005</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="60" size="thumb" height="175" src="thumb/Spritzenfest-2011-005.jpg" />
+    <rendition width="356" size="large" height="1030" src="large/Spritzenfest-2011-005.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-006</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-006.jpg" />
+    <rendition width="1030" size="large" height="580" src="large/Spritzenfest-2011-006.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-007</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="37" src="thumb/Spritzenfest-2011-007.jpg" />
+    <rendition width="1030" size="large" height="218" src="large/Spritzenfest-2011-007.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-008</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="131" src="thumb/Spritzenfest-2011-008.jpg" />
+    <rendition width="1030" size="large" height="772" src="large/Spritzenfest-2011-008.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-010</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="131" src="thumb/Spritzenfest-2011-010.jpg" />
+    <rendition width="1030" size="large" height="772" src="large/Spritzenfest-2011-010.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-011</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="131" src="thumb/Spritzenfest-2011-011.jpg" />
+    <rendition width="1030" size="large" height="772" src="large/Spritzenfest-2011-011.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-012</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-012.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-012.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-013</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-013.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-013.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-014</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="131" src="thumb/Spritzenfest-2011-014.jpg" />
+    <rendition width="1030" size="large" height="772" src="large/Spritzenfest-2011-014.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-015</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-015.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-015.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-016</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-016.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-016.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-017</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-017.jpg" />
+    <rendition width="1030" size="large" height="579" src="large/Spritzenfest-2011-017.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-018</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-018.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-018.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-020</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-020.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-020.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-021</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-021.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-021.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-022</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-022.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-022.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-023</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-023.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-023.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-024</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-024.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-024.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-025</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-025.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-025.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-027</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-027.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-027.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-026</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-026.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-026.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-029</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-029.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-029.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-030</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-030.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-030.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-031</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-031.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-031.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-032</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-032.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-032.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-028</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-028.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-028.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-034</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-034.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-034.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-035</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-035.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-035.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-036</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-036.jpg" />
+    <rendition width="1030" size="large" height="579" src="large/Spritzenfest-2011-036.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-037</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-037.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-037.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-038</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-038.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-038.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-039</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-039.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-039.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-033</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-033.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-033.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-040</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-040.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-040.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-041</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-041.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-041.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-042</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-042.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-042.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-043</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-043.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-043.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-044</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-044.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-044.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-045</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-045.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-045.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-046</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-046.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-046.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-047</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-047.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-047.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-048</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-048.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-048.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-049</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-049.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-049.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-050</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-050.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-050.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-051</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-051.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-051.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-052</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-052.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-052.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-053</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-053.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-053.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-054</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-054.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-054.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-055</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-055.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-055.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-056</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-056.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-056.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-057</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-057.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-057.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-058</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-058.jpg" />
+    <rendition width="1030" size="large" height="579" src="large/Spritzenfest-2011-058.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-059</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-059.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-059.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-060</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-060.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-060.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-061</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-061.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-061.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-062</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-062.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-062.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-063</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-063.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-063.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-064</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-064.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-064.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-065</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-065.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-065.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-066</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-066.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-066.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-067</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-067.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-067.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-068</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-068.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-068.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-069</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-069.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-069.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-070</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-070.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-070.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-071</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-071.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-071.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-072</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-072.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-072.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-073</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-073.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-073.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-074</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-074.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-074.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-075</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-075.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-075.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-076</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-076.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-076.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-077</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-077.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-077.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-078</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-078.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-078.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-079</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-079.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-079.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-080</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="116" size="thumb" height="175" src="thumb/Spritzenfest-2011-080.jpg" />
+    <rendition width="686" size="large" height="1030" src="large/Spritzenfest-2011-080.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-081</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="116" size="thumb" height="175" src="thumb/Spritzenfest-2011-081.jpg" />
+    <rendition width="686" size="large" height="1030" src="large/Spritzenfest-2011-081.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-082</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-082.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-082.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-083</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-083.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-083.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-084</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-084.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-084.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-085</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-085.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-085.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-086</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-086.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-086.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-087</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-087.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-087.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-088</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="98" src="thumb/Spritzenfest-2011-088.jpg" />
+    <rendition width="1030" size="large" height="577" src="large/Spritzenfest-2011-088.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Spritzenfest-2011-153</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="0" latitude="0" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="175" size="thumb" height="165" src="thumb/Spritzenfest-2011-153.jpg" />
+    <rendition width="1030" size="large" height="970" src="large/Spritzenfest-2011-153.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Autotour</galleryName>
+  <galleryDescription>Zeigen Sie Ihre Urlaubsfotos in dieser interaktiven Galerie an. Fügen Sie Beschriftungen hinzu, um eine Geschichte zu erzählen.</galleryDescription>
+  <creator designer="James Karsberg and James Laver" company="Lightmaker" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <windowSize width="-1024" height="-575" />
+  <custom>
+   <pageTitle>Vereinsausflug 13. September 2008</pageTitle>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="1024" maxheight="575" />
+ </sizes>
+ <media>
+  <item>
+   <title>Vereinsausflug11</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug11.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug14</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug14.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug16</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug16.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug21</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug21.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug24</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug24.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug26</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug26.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug28</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug28.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug31</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug31.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug35</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug35.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug38</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug38.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug40</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug40.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug43</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug43.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug45</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug45.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug46</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug46.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug47</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug47.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug48</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug48.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug51</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug51.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug55</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug55.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug57</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug57.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug58</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug58.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug60</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug60.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug62</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug62.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug64</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug64.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug65</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug65.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug66</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug66.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug69</title>
+   <description>SONY DSC</description>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug69.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>Vereinsausflug70_bearbeitet-1</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="1024" size="medium" height="575" src="resources/media/roadtrip/medium/Vereinsausflug70_bearbeitet-1.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>
